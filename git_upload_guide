@@ -1,0 +1,28 @@
+#change directory
+$cd desire directory  #select directory
+
+#git initialize
+$git init
+
+#git add
+$git add ./  #to upload all files
+
+OR
+
+$git add filename
+
+#git commit with messege
+$git commit -m "messege"
+
+#git branch
+$git branch -M main
+
+#git add to origin
+$git remote set-url main https://#Access_key@git_hub_https_url
+
+#git push
+$git push -u main
+
+#Files upload done
+
+
